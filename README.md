@@ -27,10 +27,10 @@ Welcome to my GitHub profile! I'm a **Data Science and AI Engineering student** 
 - **NumPy**, **Pandas**, **Scikit-learn**, **PyTorch**, **TensorFlow**, **Matplotlib**
 
 ### Software Development:
-- **Android Development with Jetpack Compose**
-
+- **Android Development with Jetpack Compose** , **
+**
 ### DevOps & Tools:
-- **Linux**, **Git**, **GitHub**
+- **Linux**, **Git**, **GitHub** , **Docker** , **Kubernetes** , **Mlflow** , **Kafka** , 
 
 ---
 
